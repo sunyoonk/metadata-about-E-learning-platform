@@ -1,5 +1,5 @@
 # 온라인 이러닝 플랫폼에 대한 (학습) 메타데이터
-## 이러닝(E-Learning) 플랫폼 간 비교 분석
+## 이러닝(e-Learning) 플랫폼 간 비교 분석
 
 ## 1. 배경 및 필요성
 >**코로나 19 팬데믹 이후**, 우리의 일상 속 많은 것들이 **온라인**으로 옮겨졌다.   
@@ -33,4 +33,4 @@
 - **11월** : DAU AI SW 창의융합 DevDay 출전
 
 ## 5. 참고자료
-- **[이러닝(e-Learning>을 위한 학습 메타데이터(Metadata) 비교분석, 한양대학교 교육대학원, 2007](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2776ba59d517b337ffe0bdc3ef48d419)**
+- **[이러닝(e-Learning)을 위한 학습 메타데이터(Metadata) 비교분석, 한양대학교 교육대학원, 2007](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2776ba59d517b337ffe0bdc3ef48d419)**
