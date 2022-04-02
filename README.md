@@ -33,4 +33,4 @@
 - **11월** : DAU AI SW 창의융합 DevDay 출전
 
 ## 5. 참고자료
-
+- [이러닝(e-Learning>을 위한 학습 메타데이터(Metadata) 비교분석, 한양대학교 교육대학원](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2776ba59d517b337ffe0bdc3ef48d419)
