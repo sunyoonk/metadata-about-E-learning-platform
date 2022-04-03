@@ -34,5 +34,5 @@
 
 ## 5. 참고자료
 - **[e-Learning Contents의 표준화 현황 및 방안 연구 : 기업교육에서 e-learning contents의 metadata를 중심으로, 2001](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8c6c13386b1950c5&keyword=metadata%20e-learning)**
-- **[이러닝(e-Learning)을 위한 학습 메타데이터(Metadata) 비교분석, 한양대학교 교육대학원, 2007](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2776ba59d517b337ffe0bdc3ef48d419)**
+- **[이러닝(e-Learning)을 위한 학습 메타데이터(Metadata) 비교분석, 2007](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2776ba59d517b337ffe0bdc3ef48d419)**
 - **[Metadata modelling disciplines for e-learning by doing systems, 2015](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=e21c2016a7c3498b&control_no=6fd47b1569857fb3ffe0bdc3ef48d419&keyword=metadata%20e-learning)**
