@@ -18,8 +18,8 @@
 
 ## 3. 필요기술
 - **Google Colab (주요 기술)**   
-- **Python 언어**   
-- **Jupyter, Pandas**   
+- Python 언어   
+- Jupyter, Pandas   
 
 ## 4. 해결하고자 하는 내용 (1년 개발 계획)
 - **4월** : Pandas (판다스) 입문 학습, Python (파이썬) 언어 학습 및 실습
