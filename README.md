@@ -17,9 +17,9 @@
 - 본 프로젝트를 **장기화 시켜** 연말 **DAU AI SW 창의융합 DevDay (컴퓨터AI공학부 1~3학년 소프트웨어작품 발표전시회) 참여를 희망**하는 분
 
 ## 3. 필요기술
--**Google Colab (주요 기술)**
--**Python 언어**
--**Jupyter, Pandas** 
+-**Google Colab (주요 기술)**   
+-**Python 언어**   
+-**Jupyter, Pandas**   
 
 ## 4. 해결하고자 하는 내용 (1년 개발 계획)
 - **4월** : Pandas (판다스) 입문 학습, Python (파이썬) 언어 학습 및 실습
