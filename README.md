@@ -3,18 +3,18 @@
 ## EduCOR : An Educational and Career-Oriented Recommendation Ontology **[논문 링크](https://arxiv.org/abs/2107.05522)**
 
 ### 목차
-1. 소개
+>**1. 소개
 
-2. EduCOR Ontology
-- 2-1. 온톨로지 구성
-- 2-2. 패턴
+**2. EduCOR Ontology**
+- **2-1. 온톨로지 구성**
+- **2-2. 패턴**
 
-3. 사용 사례 시나리오
+**3. 사용 사례 시나리오**
 
-4. 평가
-- 4-1. Gold standard-based 평가
-- 4-2. Task-based 평가
+**4. 평가**
+- **4-1. Gold standard-based 평가**
+- **4-2. Task-based 평가**
 
-5. 관련 작업
-6. 토론 및 향후 단계
-7. 결론
+**5. 관련 작업**
+**6. 토론 및 향후 단계**
+**7. 결론**
