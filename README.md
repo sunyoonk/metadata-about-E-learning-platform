@@ -2,7 +2,7 @@
 
 ## EduCOR : An Educational and Career-Oriented Recommendation Ontology **[논문 링크](https://arxiv.org/abs/2107.05522)**
 
->**목차**
+## 목차
 **1. 소개**   
 **2. EduCOR Ontology**   
 >**2-1. 온톨로지 구성**   
