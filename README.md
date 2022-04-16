@@ -93,6 +93,8 @@ e-learning 및 직업 온톨로지로서 사용할 수 있는 직업은 많으�
 ### [그림 1.] 분석
 - 각 패턴의 클래스는 서로 다른 색상으로 표시   
 
+---
+
 **1) 패턴 A**   
 - Educational Resource(교육 자원) 패턴에서 'Educational Resource(교육 자원)' 클래스는 학습 자료 or 학습 대상을 나타냄.
 - 'Multimedia Data(멀티미디어 데이터)' 클래스에서 다루는 여러가지 유형을 가질 수 있음.
