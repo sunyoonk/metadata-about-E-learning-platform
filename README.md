@@ -88,6 +88,24 @@ EduCOR ontology 제안 목적
 
 ![그림 1.](https://tibonto.github.io/educor/EduCOR.png)
 
+### [그림 1.] 분석
+- 각 패턴의 클래스는 서로 다른 색상으로 표시   
+
+**1) 패턴 A**   
+- Educational Resource(교육 자원) 패턴에서 'Educational Resource(교육 자원)' 클래스는 학습 자료 or 학습 대상을 나타냄.
+- 'Multimedia Data(멀티미디어 데이터)' 클래스에서 다루는 여러가지 유형을 가질 수 있음.
+
+- 'Educational Resource'에는 호스팅 콘텐츠 저장소에서 요구하는 모든 품질 측정값을 반영하는 'Quality Indicator(품질 지표)'이 있음.   
+- 'Accessibility(접근성)' 클래스를 통해 학습자의 다양한 접근 요구사항을 학습자료의 접근권한과 방법을 다룸.   
+- 또한 'Educational Resource(교육 자원)'은 Knowledge Topic(지식 주제) 패턴 D의 특정 'Knowledge Topic'을 나타냄.   
+
+**2) 패턴 D**
+- Knowledge Topic(지식 주제)은 특정 지식영역의 특정 주제를 나타냄.   
+(Ex. 'Mathmatics(수학)' 영역의 'Quadratic Equations(이차방정식)') 
+
+- 'Knoledge Topic(지식 주제)'은 학습자가 특정 'Methodology(방법론)'을 통해 경험하는 'Theory(이론)'과 'Exercise(연습)' 내용이 있다.
+- 이때, 'Exercise(연습)' 클래스는 'Knowledge Topic(지식 주제)'과 'Test(연습)' 패턴에 모두 연결됨.   
+
 ## 3. 사용 사례 시나리오   
 ## 4. 평가   
 >**4-1. Gold standard-based 평가**   
