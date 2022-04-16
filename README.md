@@ -86,6 +86,7 @@ EduCOR ontology 제안 목적
 >>- 각 패턴은 단독으로 존재한다.   
 >>- 응용 프로그램이 해당 패턴을 필요로 하거나 필요로 하지 않을 경우 EduCOR 온톨로지로부터 분리된 단일 패턴으로 사용되는 다른 온톨로지에 추가할 수 있다.   
 
+![그림 1. EduCORontology 클래스의 개요](https://tibonto.github.io/educor/EduCOR.png)
 
 ## 3. 사용 사례 시나리오   
 ## 4. 평가   
