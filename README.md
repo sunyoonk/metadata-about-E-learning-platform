@@ -252,6 +252,7 @@ eDoer12 플랫폼 개발에 온톨로지를 사용함.
 
 =======
 EduCor
+### 2036847 이주현
 # EduCOR: An Educational and Career-Oriented Recommendation Ontology
 ## EduCOR : 교육 및 직업 지향 온톨로지 
 
@@ -401,6 +402,7 @@ EduCOR은 섹션에서 소개된 패턴을 통해 전체 또는 부분으로 사
 [EduCOR: An Educational and Career-Oriented Recommendation Ontology](https://rdcu.be/cLc5I "EduCOR")
 main
 =======
+### 2140072 황지영
 ## Introduction
 
  온라인 학습 플랫폼은 특정 COVID-19 펜데믹 기간 동안 매일 백만명의 학습자들에 의해 사용되어지고 있으며, 교육 체제는 전세계적으로 온라인 환경으로 향하고 있다. 그러므로 장기적인 학습 툴은 직업 변화, (재)숙련 혹은 실업 후 노동 시장으로의 (재)입장에서 사람들을 보조할 수 있도록 부상되어진다. 이러닝과 직업 온톨로지들로 이용 가능한 수많은 작업들이 있는 반면에 두 개의 도메인들 (Educational Resources(ERs) & Open Educational Resources(OER))을 연결하기 위해 이용가능한 모델은 현재 존재하지 않는다. 그리하여 EduCOR 온톨로지가 공통 온톨로지 하에 다른 도메인인 ERs와 OERs를 정리하고, 노동 시장을 연결하고, 이러닝 플랫폼 내 개인화된 추천 시스템을 제공하도록 제안되었다.
