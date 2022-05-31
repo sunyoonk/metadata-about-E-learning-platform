@@ -1,8 +1,7 @@
 통일된 PR 작성 양식은 가독성을 높여줄 수 있습니다.
 모든 PR은 간결한 것이 좋습니다.
 
-<details>
-  <summary>PR이 방대할수록 생기는 단점들</summary>
++ PR이 방대할수록 생기는 단점
 
 1. 검토자가 문제를 해결할 수 있는 시간이 더 오래 소요됩니다.
 2. 첫 번째 시도에서 코드 검토를 통과할 가능성이 낮아 여러 번의 검토가 필요합니다.
@@ -15,6 +14,4 @@
 9. 병합 충돌의 가능성이 높아집니다.
 10. 코드를 프로덕션에 적용하고 비즈니스 가치를 제공하기 시작하는 데 더 오래 걸릴 것입니다.
 
-[출처](https://smallbusinessprogramming.com/optimal-pull-request-size/)
-
-</details>
+>[Reference](https://smallbusinessprogramming.com/optimal-pull-request-size/)
