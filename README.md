@@ -13,32 +13,31 @@
 
 >참고문헌 [Reference](https://arxiv.org/abs/2107.05522)
 
-## Installation
-
-- 컴파일 방법, 사용 환경, 브라우저 서포트(웹 프로젝트라면!)
-
-- 간단한 사용 방법 및 예제
-
 ## 구성
 
 + 3명 각자
 
-## 관련 메소드
-
 ## 사용 방법
 
-## Contribute
-- 다른 사람들이 코드에 Contribute하기 쉽도록 설명
+## Installation
 
+- 컴파일 방법, 사용 환경, 브라우저 서포트(웹 프로젝트라면!)
+- 간단한 사용 방법 및 예제
+
+## 관련 메소드
+
+## Contribute
+
+- 다른 사람들이 코드에 Contribute하기 쉽도록 설명
 - 어떤 류의 Contribute를 원하는지 또는 Contributing 규칙 등을 적을 수도 있다.
 
 ## 외부리소스 정보
+
 - 프로젝트에 포함된 외부 코드나 리소스 정보(각각의 출처 및 배포 라이선스)
 
 ## Code Status
 
 - Shield라는 것을 사용하여 [build | passing]과 같은 정보를 줄 수 있다.
-
 - 프로젝트가 커질수록 도움이 되는 부분
 
 ## LICENSE
