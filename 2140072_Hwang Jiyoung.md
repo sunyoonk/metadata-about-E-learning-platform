@@ -1,4 +1,5 @@
-# +++++ title 
+# EduCOR: 교육 및 지향 직업 추천 온톨로지
+
 ### 2140072 황지영
 
 ## Introduction
