@@ -1,3 +1,4 @@
+# 임시저장 본
 # Watch Less and Uncover More: Could Navigation Tools Help Users Search and Explore Videos?
 ## 1. ABSTRACT (개요)
 이전 연구에서는 '콘텐츠 미리보기 도구'가 다양한 정보 검색 작업에서 사용자 관련성 판단의 속도와 정확도를 어떻게 향상시키는지 보여주었다.
